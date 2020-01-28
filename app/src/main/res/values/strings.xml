@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="random_jokes">Random Jokes</string>
+    <string name="favorites">Favorites</string>
+    <string name="give_me_a_joke">Give me a joke!</string>
+    <string name="favorite_button">favorite button</string>
+    <string name="setup_here">setup here</string>
+    <string name="answer_here">answer here</string>
+    <string name="bin_icon">bin icon</string>
+    <string name="back">Back</string>
+    <string name="title_favorite_activity">Favorite jokes</string>
+</resources>
